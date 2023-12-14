@@ -15,7 +15,7 @@ def connect_to_wifi(ssid, password):
 password = generate_password(10)
 
 # Replace 'YourWiFiSSID' with the name of your WiFi network
-ssid = 'YourWiFiSSID'
+ssid = 'Nejamuddin'
 
 # Connect to WiFi using the generated password
 connect_to_wifi(ssid, password)
